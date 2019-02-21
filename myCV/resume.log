@@ -1,0 +1,140 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.22)  21 FEB 2019 10:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**resume.cls
+(./resume.cls
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `resume'.
+
+Package: resume 2010/07/10 v0.9 Resume class
+(c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2018/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \usepackage[parfill]{
+                          parskip} % Remove paragraph indentation
+? 
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \usepackage{
+                 array} % Required for boldface (\bf and \bfseries) tabular ...
+
+? 
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \usepackage{
+                 ifthen} % Required for ifthenelse statements
+? 
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ...lor=blue,citecolor=blue,bookmarks = True]{
+                                                  hyperref}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \let \@ad
+              dressone \relax
+? 
+! Illegal parameter number in definition of \address.
+<to be read again> 
+                   2
+l.119  {\bf #1} \hfill {#2
+                          } % Bold company name and date on the right
+? 
+! Illegal parameter number in definition of \address.
+<to be read again> 
+                   3
+l.120  \ifthenelse{\equal{#3
+                            }{}}{}{ % If the third argument is not specified...
+
+? 
+! Illegal parameter number in definition of \address.
+<to be read again> 
+                   3
+l.122   {\em #3
+               } \hfill {\em #4} % Italic job title and location
+? 
+! Illegal parameter number in definition of \address.
+<to be read again> 
+                   4
+l.122   {\em #3} \hfill {\em #4
+                               } % Italic job title and location
+? 
+)
+Runaway definition?
+#1-> \@ifundefined{@addresstwo}{ \def \@addresstwo {#1} }{ \@ifundefi\ETC.
+! File ended while scanning definition of \address.
+<inserted text> 
+                }
+<*> resume.cls
+              
+? 
+
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please t
